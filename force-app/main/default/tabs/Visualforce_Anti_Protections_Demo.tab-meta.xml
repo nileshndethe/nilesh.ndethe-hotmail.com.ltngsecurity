@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Visualforce Anti-Protections Demo</label>
+    <mobileReady>false</mobileReady>
+    <motif>Custom73: 高速道路標識</motif>
+    <page>Visualforce_Anti_Protections_Demo</page>
+</CustomTab>
